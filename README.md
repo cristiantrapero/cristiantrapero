@@ -35,6 +35,9 @@ Currently working at **Sesame HR** building and maintaining scalable infrastruct
 
 ### 📜 Certifications
 
+- ☸️ CKA – Certified Kubernetes Administrator
+- ☸️ KCNA – Kubernetes and Cloud Native Associate
+- 📊 PCA – Prometheus Certified Associate
 - ☁️ AWS Certified Solutions Architect – Associate
 - ☁️ AWS Certified Cloud Practitioner
 
