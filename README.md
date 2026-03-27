@@ -23,13 +23,13 @@ Currently working at **Sesame HR** building and maintaining scalable infrastruct
 
 | Project | Description | Tech |
 |---|---|---|
+| [**SmartMailbox**](https://github.com/cristiantrapero/SmartMailbox) | Smart mailbox to receive packages when you aren't at home | C++ |
+| [**SmartMailbox-Android**](https://github.com/cristiantrapero/SmartMailbox-Android) | Android app for SmartMailbox management | Java |
 | [**imgoverlora**](https://github.com/cristiantrapero/imgoverlora) | Send images over LoRa using BLE and Android | Python |
 | [**imgoverlora-android**](https://github.com/cristiantrapero/imgoverlora-android) | Android app to send images via BLE to Lopy 4 | Java |
 | [**opensearch-infra**](https://github.com/cristiantrapero/opensearch-infra) | OpenSearch cluster infrastructure with Terraform | HCL |
 | [**opensearch-cluster**](https://github.com/cristiantrapero/opensearch-cluster) | OpenSearch cluster setup and configuration | Shell |
 | [**mac-ansible-playbook**](https://github.com/cristiantrapero/mac-ansible-playbook) | Mac setup and configuration via Ansible | Shell |
-| [**tfm-node**](https://github.com/cristiantrapero/tfm-node) | Pycom Lopy 4 node for multimedia over LoRa RAW | Python |
-| [**bme680overLoRa**](https://github.com/cristiantrapero/bme680overLoRa) | Bosch BME680 sensor data over LoRa RAW channel | C |
 
 ---
 
